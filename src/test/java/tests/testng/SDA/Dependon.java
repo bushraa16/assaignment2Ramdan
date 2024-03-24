@@ -1,5 +1,4 @@
-package tests.testng.assaignment2Ramadan;
-import org.testng.annotations.AfterClass;
+package tests.testng.SDA;
 import org.testng.annotations.Test;
 public class Dependon extends Tests {
          /*

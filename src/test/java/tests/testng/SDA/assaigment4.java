@@ -1,4 +1,4 @@
-package tests.testng.assaignment2Ramadan;
+package tests.testng.SDA;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

@@ -1,4 +1,4 @@
-package tests.testng.assaignment2Ramadan;
+package tests.testng.SDA;
 import io.qameta.allure.Step;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;

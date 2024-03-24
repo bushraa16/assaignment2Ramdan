@@ -1,4 +1,4 @@
-package tests.testng.assaignment2Ramadan;
+package tests.testng.SDA;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.core.config.Configurator;
